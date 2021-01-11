@@ -1,7 +1,8 @@
 # Introduction
-<hr>
 
-##Taking a Step Back
+
+## Taking a Step Back
+
 While navigating my rapidly unfolding career path, I have decided to take a moment to step back and not get swept up in the daily tasks that I focus so much of my time and efforts on to comprehend how my current work will impact and direct my career in the long-run.
 
 Not an easy task, as many engineers will agree. Context switching takes excessive stamina, especially for those who are deep in the technical details of a few non-overlapping projects, but as I've heard and am learning, it <b>does</b> get easier with time and thoughtful practice. I would say experience, but I have found that many go from meeting to meeting without consciously taking in details and ideas (I like to write down notes during and after meetings to ensure I don't forget the progress or new paths forward for the project) before heading into the next meeting. 
